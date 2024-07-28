@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import dmeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmeankbn2@deno/mod.js';
+import dmeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmeankbn2@v0.2.2-deno/mod.js';
 ```
 
 #### dmeankbn2( N, x, stride )
@@ -171,7 +171,7 @@ var v = dmeankbn2.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@deno/mod.js';
-import dmeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmeankbn2@deno/mod.js';
+import dmeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmeankbn2@v0.2.2-deno/mod.js';
 
 var x;
 var i;
