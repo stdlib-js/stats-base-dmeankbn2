@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`50d8e54`](https://github.com/stdlib-js/stdlib/commit/50d8e54ed3c99385ff43453104fd52e0f63195ed) - **refactor:** update `stats/base/dmeankbn2` native addon from C++ to C [(#4096)](https://github.com/stdlib-js/stdlib/pull/4096) _(by Aayush Khanna)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Philipp Burckhardt
 
 </section>
