@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`8fc41f6`](https://github.com/stdlib-js/stdlib/commit/8fc41f62eddc144b7e72cd14912d8f626ee87828) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dmeankbn2` [(#4715)](https://github.com/stdlib-js/stdlib/pull/4715) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`50d8e54`](https://github.com/stdlib-js/stdlib/commit/50d8e54ed3c99385ff43453104fd52e0f63195ed) - **refactor:** update `stats/base/dmeankbn2` native addon from C++ to C [(#4096)](https://github.com/stdlib-js/stdlib/pull/4096) _(by Aayush Khanna)_
